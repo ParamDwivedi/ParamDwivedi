@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi
+## I am Param, I'm currently learning about web development and game development mainly, and some other stuff that may be interesting to me.
 
 <!--
 **ParamDwivedi/ParamDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
